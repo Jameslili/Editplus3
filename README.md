@@ -1,7 +1,7 @@
 # Editplus3
 Use EditPlus有代码自动完成功能和zen Coding功能
 
-#自动完成功能设置是这样的，比如
+#自动完成功能设置是这样的
 点菜单**‘工具’**-**‘参数设置’**-左边**‘设置&语法’**-右上边**‘HTML’**-右下边**‘自动完成’**前面打上勾，加载**‘XHTMLBAR.ACP’**，应用确定。关闭软件再重新打开，在html里输入如‘H1’然后按**空格**，就会出现<h1></h1>了，按什么出来什么是可以自定义的，刚刚加载那个html自动完成的文件里你可以看见
 ```
 #T=H1
@@ -25,3 +25,7 @@ Use EditPlus有代码自动完成功能和zen Coding功能
 <p class="abc"></p>
 </div>experience how to use it easy to automating completion the pages
 ```
+##快捷键
+自动换到下一行对其位置`ctrl+enter`
+一键注释`ctrl+/`
+自动复制这一行`ctrl + '+'`
