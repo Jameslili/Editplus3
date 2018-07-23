@@ -18,7 +18,7 @@ zen Coding设置
 -----------
 就是点菜单上的‘Zen Coding‘-‘使用zen Coding’
 然后比如你输入`‘div#header>p.abc*5’`然后按`ctrl+e`就会出来下面这些代码了
-```
+`
 <div id="header">
 <p class="abc"></p>
 <p class="abc"></p>
@@ -26,7 +26,7 @@ zen Coding设置
 <p class="abc"></p>
 <p class="abc"></p>
 </div>experience how to use it easy to automating completion the pages
-```
+`
 快捷键
 ---------
 *自动换到下一行对其位置`ctrl+enter`  
