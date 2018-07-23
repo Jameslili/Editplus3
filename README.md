@@ -15,9 +15,10 @@ Use EditPlus有代码自动完成功能和zen Coding功能
 #T=hhh
 <h1 class="">^!</h1>
 ```
-这只是举个例子，这时候按hhh和空格就会出来<h1 class=""></h1>，你习惯什么就怎么写好了
+这只是举个例子，这时候按hhh和空格就会出来`<h1 class=""><h1>`，你习惯什么就怎么写好了
 其他语法也可以自己设置。注意修改了文件后要重新启动软件才能生效。<br>
-zen Coding设置  
+zen Coding设置 
+-----------
 就是点菜单上的‘Zen Coding‘-‘使用zen Coding’
 然后比如你输入`‘div#header>p.abc*5’`然后按`ctrl+e`就会出来下面这些代码了
 ```
@@ -32,5 +33,5 @@ zen Coding设置
 快捷键
 ---------
 *自动换到下一行对其位置`ctrl+enter`  
-*一键注释`ctrl+/` 
+*一键注释`ctrl+/`   
 *自动复制这一行`ctrl + '+'`  
